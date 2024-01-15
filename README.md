@@ -1,6 +1,7 @@
 # Fotos: Parque temático Fincana, Tocancipá
 
 <img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">
+<img width="500" alt="Zona de trabajo" src="finkana.jpg">
 
 Estas son las fechas de captura de las fotos:
 
